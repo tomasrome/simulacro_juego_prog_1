@@ -6,4 +6,9 @@ Ramas:
 - Santino   git checkout Santino
 - Tomas     git checkout Tomas
 
+
+
+
+git push --set-upstream origin Tomas
+
 '''
