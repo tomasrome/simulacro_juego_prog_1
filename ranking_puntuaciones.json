@@ -1,0 +1,67 @@
+{
+    "jugador_1": {
+        "nombre": "Enzo",
+        "puntuacion": 100,
+        "victorias": 3
+    },
+    "jugador_2": {
+        "nombre": "Romina",
+        "puntuacion": 75.0,
+        "victorias": 2
+    },
+    "jugador_3": {
+        "nombre": "Diego",
+        "puntuacion": 65.0,
+        "victorias": 7
+    },
+    "jugador_4": {
+        "nombre": "Naty",
+        "puntuacion": 35.0,
+        "victorias": 5
+    },
+    "jugador_5": {
+        "nombre": "Lucas",
+        "puntuacion": 15.0,
+        "victorias": 1
+    },
+    "jugador_6": {
+        "nombre": "Lautaro",
+        "puntuacion": 55.0,
+        "victorias": 5
+    },
+    "jugador_7": {
+        "nombre": "Lautaro",
+        "puntuacion": 10,
+        "victorias": 3
+    },
+    "jugador_8": {
+        "nombre": "Lautaro",
+        "puntuacion": 20,
+        "victorias": 3
+    },
+    "jugador_9": {
+        "nombre": "Lautaro",
+        "puntuacion": 20,
+        "victorias": 3
+    },
+    "jugador_10": {
+        "nombre": "Lautaro",
+        "puntuacion": 37.5,
+        "victorias": 4
+    },
+    "jugador_11": {
+        "nombre": "Piedra",
+        "puntuacion": 27.5,
+        "victorias": 3
+    },
+    "jugador_12": {
+        "nombre": "Tomas",
+        "puntuacion": 12.5,
+        "victorias": 3
+    },
+    "jugador_13": {
+        "nombre": "Luke",
+        "puntuacion": 32.5,
+        "victorias": 3
+    }
+}
