@@ -13,21 +13,21 @@ texto_bienvenida = f"""
     Te enfrentas a {rojo}Darth Vader{blanco}. Solo los valientes 
     sobreviven. La batalla será dura... ¿Estás listo?
     
-    {amarillo}¡Que la Fuerza te acompañe!{blanco}
+    {verde}¡Que la Fuerza te acompañe!{blanco}
 {rojo}──────────────────────────────────────────────────{blanco}
 """
 
 
 
-mensaje_menu = azul +'''
+mensaje_menu = f'''{azul}
 *********** MENÚ PRINCIPAL ***********                                   
 
-1. Jugar: Duelo de Piedra, Papel o Tijeras
-2. Cómo jugar.
-3. Ver tu nivel de la Fuerza - Ranking de puntuaciones.
-4. Salir de la Galaxia
+{azul}1.{blanco} Jugar: Duelo de Piedra, Papel o Tijeras.
+{azul}2.{blanco} Cómo jugar.
+{azul}3.{blanco} Ver tu nivel de la Fuerza - Ranking de puntuaciones.
+{azul}4.{blanco} Salir de la Galaxia
 
-Elige una opción (1-4): ''' + blanco
+Elige una opción (1-4): {blanco}'''
 
 
 

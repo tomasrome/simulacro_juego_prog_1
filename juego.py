@@ -14,7 +14,7 @@ def jugar():
     '''
 
     #Ingreso nombre de jugador.
-    jugador = input("Ingrese el nombre del jugador: ")
+    jugador = input("\nIngrese el nombre del jugador: ")
     #Se valida que no se ingrese un string vacio o con espacios.
     while jugador.strip() == "":
         #Caso omiso, se pide el reingreso del nombre.
@@ -47,13 +47,13 @@ def jugar():
     while partida <= total_partidas:
 
         #Aviso de numero de rondas
-        print(f"\nPartida {partida} de {total_partidas}")
+        print(f"\n{azul}Partida {partida} de {total_partidas}{blanco}")
 
         #Eleccion y validación de nuestro movimiento.
         eleccion_jugador = input("\nElegir en entre: Piedra | Papel | Tijera\nIngresar: \n").capitalize()
         while eleccion_jugador != "Piedra" and eleccion_jugador != "Papel" and eleccion_jugador != "Tijera":
             print("Eligió una opcion invalida, vuelva a intentar.")
-            eleccion_jugador = input("\nElegir en entre: Piedra | Papel | Tijera\nIngresar: \n").capitalize()
+            eleccion_jugador = input("\nElegir entre: Piedra | Papel | Tijera\nIngresar: \n").capitalize()
         
         #Seleccion random de vader.
         eleccion_vader= random.choice(opciones)

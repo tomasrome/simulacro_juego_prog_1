@@ -53,5 +53,15 @@
         "nombre": "Piedra",
         "puntuacion": 27.5,
         "victorias": 3
+    },
+    "jugador_12": {
+        "nombre": "Tomas",
+        "puntuacion": 12.5,
+        "victorias": 3
+    },
+    "jugador_13": {
+        "nombre": "Luke",
+        "puntuacion": 32.5,
+        "victorias": 3
     }
 }
