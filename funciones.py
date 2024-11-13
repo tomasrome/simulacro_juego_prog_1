@@ -133,3 +133,4 @@ def habilitar_berserk(contador: int, habilitar: bool) -> None :
         print(berserk_on)
         #Sonidos
         playsound('audios/vader_berserk.mp3')
+        return habilitar

@@ -108,13 +108,13 @@ def jugar():
                 elif contador_racha == 3:
                     multiplicador = 1.5
                     #POSIBILIDAD de berserk a partir de la 3er victoria CONSECUTIVA en adelante.
-                    habilitar_berserk(contador_racha, berserk)
+                    berserk = habilitar_berserk(contador_racha, berserk)
                 elif contador_racha == 4:
                     multiplicador = 1.75
-                    habilitar_berserk(contador_racha, berserk)
+                    berserk = habilitar_berserk(contador_racha, berserk)
                 elif contador_racha == 5:
                     multiplicador = 2
-                    habilitar_berserk(contador_racha, berserk)
+                    berserk = habilitar_berserk(contador_racha, berserk)
             else:
                 #Se reinicia la racha en caso de no haber sido el ganador previo.
                 contador_racha = 1

@@ -29,28 +29,8 @@
         "puntuacion": 55.0,
         "victorias": 5
     },
-    "jugador_7": {
-        "nombre": "Lautaro",
-        "puntuacion": 10,
-        "victorias": 3
-    },
-    "jugador_8": {
-        "nombre": "Lautaro",
-        "puntuacion": 20,
-        "victorias": 3
-    },
-    "jugador_9": {
-        "nombre": "Lautaro",
-        "puntuacion": 20,
-        "victorias": 3
-    },
-    "jugador_10": {
-        "nombre": "Lautaro",
-        "puntuacion": 37.5,
-        "victorias": 4
-    },
     "jugador_11": {
-        "nombre": "Piedra",
+        "nombre": "Santino",
         "puntuacion": 27.5,
         "victorias": 3
     },
@@ -64,4 +44,5 @@
         "puntuacion": 32.5,
         "victorias": 3
     }
+    
 }
